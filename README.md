@@ -1,5 +1,7 @@
 When mimepull cannot write temp files during file upload handling, the error is incorrectly given status 400 and therefore not logged as a server-side error.
 
+Run the ServerMain class with `-Djava.io.tmpdir=/something-that-does-not-exist`.
+
 To test with a file that is small enough that it works:
 
 ```
