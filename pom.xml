@@ -17,7 +17,7 @@
     <dep.junit>4.11</dep.junit>
 
     <dep.guice>3.0</dep.guice>
-    <dep.jersey>1.16</dep.jersey>
+    <dep.jersey>1.17</dep.jersey>
     <dep.jetty>7.6.8.v20121106</dep.jetty>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
