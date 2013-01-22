@@ -1,0 +1,14 @@
+.*.sw?
+
+target
+logs
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+*.iml
+.idea
